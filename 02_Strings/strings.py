@@ -32,3 +32,8 @@
 # r
 # l
 # d
+
+######### Check String #########
+
+# str2 = 'hello is world '
+# print('is' in str2) # output: true
